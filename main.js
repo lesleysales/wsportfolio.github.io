@@ -60,9 +60,10 @@ ScrollReveal().reveal('.home-content p, .about-content, .contact p, .social-medi
 /* ====== Typed JS ====== */
 
 const typed = new Typed ('.multiple-text',{
-    strings: ['Desenvolvedor', 'Designer', 'Analista de Dados'],
+    strings: ['Analista de Dados', 'Apaixonado por Dados', 'Movido por Insights'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
     loop: true
 })
+
