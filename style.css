@@ -291,7 +291,7 @@ span {
 
 /*Aqui poderá alterar as porcentagens dos progressos*/
 .skill-per.adobecreative{
-    width: 75%;
+    width: 80%;
     animation-delay: 0.1s;
 }
 
@@ -301,12 +301,12 @@ span {
 }
 
 .skill-per.design{
-    width: 55%;
+    width: 50%;
     animation-delay: 0.3s;
 }
 
 .skill-per.ux{
-    width: 40%;
+    width: 35%;
     animation-delay: 0.4s;
 }
 
